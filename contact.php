@@ -34,4 +34,5 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // Not a POST request
     die("Invalid request method");
 }
+
 ?>
